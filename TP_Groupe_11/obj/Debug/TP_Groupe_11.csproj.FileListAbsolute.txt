@@ -1,0 +1,7 @@
+C:\Users\dnous\OneDrive\Documents\Mes Cours\Programmation orientée objet II\TP\TP_Groupe_11\TP_Groupe_11\bin\Debug\TP_Groupe_11.exe.config
+C:\Users\dnous\OneDrive\Documents\Mes Cours\Programmation orientée objet II\TP\TP_Groupe_11\TP_Groupe_11\bin\Debug\TP_Groupe_11.exe
+C:\Users\dnous\OneDrive\Documents\Mes Cours\Programmation orientée objet II\TP\TP_Groupe_11\TP_Groupe_11\bin\Debug\TP_Groupe_11.pdb
+C:\Users\dnous\OneDrive\Documents\Mes Cours\Programmation orientée objet II\TP\TP_Groupe_11\TP_Groupe_11\obj\Debug\TP_Groupe_11.csproj.AssemblyReference.cache
+C:\Users\dnous\OneDrive\Documents\Mes Cours\Programmation orientée objet II\TP\TP_Groupe_11\TP_Groupe_11\obj\Debug\TP_Groupe_11.csproj.CoreCompileInputs.cache
+C:\Users\dnous\OneDrive\Documents\Mes Cours\Programmation orientée objet II\TP\TP_Groupe_11\TP_Groupe_11\obj\Debug\TP_Groupe_11.exe
+C:\Users\dnous\OneDrive\Documents\Mes Cours\Programmation orientée objet II\TP\TP_Groupe_11\TP_Groupe_11\obj\Debug\TP_Groupe_11.pdb
