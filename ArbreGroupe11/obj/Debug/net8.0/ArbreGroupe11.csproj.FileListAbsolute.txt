@@ -1,0 +1,13 @@
+C:\Users\dnous\OneDrive\Documents\Mes Cours\Programmation orientée objet II\TP\TP_Groupe_11\ArbreGroupe11\bin\Debug\net8.0\ArbreGroupe11.deps.json
+C:\Users\dnous\OneDrive\Documents\Mes Cours\Programmation orientée objet II\TP\TP_Groupe_11\ArbreGroupe11\bin\Debug\net8.0\ArbreGroupe11.dll
+C:\Users\dnous\OneDrive\Documents\Mes Cours\Programmation orientée objet II\TP\TP_Groupe_11\ArbreGroupe11\bin\Debug\net8.0\ArbreGroupe11.pdb
+C:\Users\dnous\OneDrive\Documents\Mes Cours\Programmation orientée objet II\TP\TP_Groupe_11\ArbreGroupe11\obj\Debug\net8.0\ArbreGroupe11.csproj.AssemblyReference.cache
+C:\Users\dnous\OneDrive\Documents\Mes Cours\Programmation orientée objet II\TP\TP_Groupe_11\ArbreGroupe11\obj\Debug\net8.0\ArbreGroupe11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnous\OneDrive\Documents\Mes Cours\Programmation orientée objet II\TP\TP_Groupe_11\ArbreGroupe11\obj\Debug\net8.0\ArbreGroupe11.AssemblyInfoInputs.cache
+C:\Users\dnous\OneDrive\Documents\Mes Cours\Programmation orientée objet II\TP\TP_Groupe_11\ArbreGroupe11\obj\Debug\net8.0\ArbreGroupe11.AssemblyInfo.cs
+C:\Users\dnous\OneDrive\Documents\Mes Cours\Programmation orientée objet II\TP\TP_Groupe_11\ArbreGroupe11\obj\Debug\net8.0\ArbreGroupe11.csproj.CoreCompileInputs.cache
+C:\Users\dnous\OneDrive\Documents\Mes Cours\Programmation orientée objet II\TP\TP_Groupe_11\ArbreGroupe11\obj\Debug\net8.0\ArbreGroupe11.sourcelink.json
+C:\Users\dnous\OneDrive\Documents\Mes Cours\Programmation orientée objet II\TP\TP_Groupe_11\ArbreGroupe11\obj\Debug\net8.0\ArbreGroupe11.dll
+C:\Users\dnous\OneDrive\Documents\Mes Cours\Programmation orientée objet II\TP\TP_Groupe_11\ArbreGroupe11\obj\Debug\net8.0\refint\ArbreGroupe11.dll
+C:\Users\dnous\OneDrive\Documents\Mes Cours\Programmation orientée objet II\TP\TP_Groupe_11\ArbreGroupe11\obj\Debug\net8.0\ArbreGroupe11.pdb
+C:\Users\dnous\OneDrive\Documents\Mes Cours\Programmation orientée objet II\TP\TP_Groupe_11\ArbreGroupe11\obj\Debug\net8.0\ref\ArbreGroupe11.dll

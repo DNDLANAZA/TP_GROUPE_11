@@ -11,8 +11,20 @@ namespace TP_Groupe_11.interfaces
     {
         void AjouterVin(Vin vin);
 
-        void RetirerVin(Vin vin);
+        List<Vin> AfficherListeVin();
 
-        string RecherVinAvecNom(string nom);
+        Vin RecherVinAvecRef(string NumRef);
+
+        void MettreAjourVin(Vin vin);
+
+        void SupprimerVin(string NumRef);
+
+        void AugmenterQuantiteVin(string NumRef, int quantite);
+
+        void RetirerQuantiteVin(string NumRef, int quantite);
+
+        void AfficherStock();
+
+
     }
 }

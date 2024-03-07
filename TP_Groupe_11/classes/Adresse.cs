@@ -10,9 +10,9 @@ namespace TP_Groupe_11.classes
     {
         //Creation de nos attributs
 
-        private string Rue { get; set; }
-        private string Code_postale { get; set; }
-        private string Appartement { get; set; }
+        public string Rue { get; set; }
+        public string Code_postale { get; set; }
+        public string Appartement { get; set; }
 
         //Creation du constructeur
 

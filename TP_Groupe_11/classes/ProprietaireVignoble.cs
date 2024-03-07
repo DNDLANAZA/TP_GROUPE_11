@@ -9,8 +9,7 @@ namespace TP_Groupe_11.classes
 {
     internal class ProprietaireVignoble : Personne
     {
-
-        private List<Vignoble> Vignoble {  get; set; }
+        public List<Vignoble> Vignoble {  get; set; }
 
         public ProprietaireVignoble(string identifiant, string nom, string prenom, string email, int numero, Adresse adresse, List<Vignoble> vignoble) : base(identifiant, nom, prenom, email, numero, adresse)
         {
@@ -20,6 +19,11 @@ namespace TP_Groupe_11.classes
         public ProprietaireVignoble()
         {
             
+        }
+
+        public override void AfficherInformation()
+        {
+            throw new NotImplementedException();
         }
     }
 }

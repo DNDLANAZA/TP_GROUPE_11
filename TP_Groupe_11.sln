@@ -5,6 +5,10 @@ VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP_Groupe_11", "TP_Groupe_11\TP_Groupe_11.csproj", "{82BB5B14-1DE3-4EB1-AC3F-134145D24BD1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArbreGroupe11", "ArbreGroupe11\ArbreGroupe11.csproj", "{88DCF7D3-2477-425F-9675-5CBFEBEE5BE8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bibliotheque", "Bibliotheque", "{047C2292-0867-480D-AAA1-4DFBEC9FAC3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,9 +19,16 @@ Global
 		{82BB5B14-1DE3-4EB1-AC3F-134145D24BD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82BB5B14-1DE3-4EB1-AC3F-134145D24BD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82BB5B14-1DE3-4EB1-AC3F-134145D24BD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88DCF7D3-2477-425F-9675-5CBFEBEE5BE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88DCF7D3-2477-425F-9675-5CBFEBEE5BE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88DCF7D3-2477-425F-9675-5CBFEBEE5BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88DCF7D3-2477-425F-9675-5CBFEBEE5BE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{88DCF7D3-2477-425F-9675-5CBFEBEE5BE8} = {047C2292-0867-480D-AAA1-4DFBEC9FAC3C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {266907B6-EA1D-4732-9613-F9E0B4D21C93}

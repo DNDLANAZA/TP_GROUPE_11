@@ -8,16 +8,16 @@ namespace TP_Groupe_11.classes
 {
     internal class AppreciationClient
     {
-        private int Longueur_en_bouche { get; set; }
-        private Boolean Odeur { get; set; }
-        private string Commentaire { get; set; }
-        private int Note { get; set; }
-        private DateTime Date_appreciation { get; set; }
+        public float Longueur_en_bouche { get; set; }
+        public float Odeur { get; set; }
+        public string Commentaire { get; set; }
+        public float Note { get; set; }
+        public DateTime Date_appreciation { get; set; }
 
-        public AppreciationClient(int longueur_en_bouche, bool odeur, string commentaire, int note, DateTime date_appreciation)
+        public AppreciationClient(float longueur_en_bouche, float odeur, string commentaire, float note, DateTime date_appreciation)
         {
             Longueur_en_bouche = longueur_en_bouche;
-            this.Odeur = odeur;
+            Odeur = odeur;
             Commentaire = commentaire;
             Note = note;
             Date_appreciation = date_appreciation;

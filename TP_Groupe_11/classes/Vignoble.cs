@@ -8,7 +8,7 @@ namespace TP_Groupe_11.classes
 {
     internal class Vignoble : Terrain
     {
-        private List<Cepage> Cepage {  get; set; }
+        public List<Cepage> Cepage {  get; set; }
 
         public Vignoble(string nom, ProprietaireVignoble proprietaire, float superficie, List<Cepage> cepage) : base(nom, proprietaire, superficie)
         {

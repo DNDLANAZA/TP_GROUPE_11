@@ -6,15 +6,15 @@ using System.Threading.Tasks;
 
 namespace TP_Groupe_11.classes
 {
-    internal class Personne
+    internal abstract class Personne
     {
-        private string Identifiant { get; set; }
-        private string Nom { get; set; }
-        private string Prenom { get; set; }
-        private string Email { get; set; }
-        private int Numero { get; set; }
+        public string Identifiant { get; set; }
+        public string Nom { get; set; }
+        public string Prenom { get; set; }
+        public string Email { get; set; }
+        public int Numero { get; set; }
 
-        private Adresse Adresse { get; set; }
+        public Adresse Adresse { get; set; }
 
         public Personne(string identifiant, string nom, string prenom, string email, int numero, Adresse adresse)
         {
@@ -35,10 +35,7 @@ namespace TP_Groupe_11.classes
             throw new NotImplementedException();
         }
 
-        public void AfficherInformation()
-        {
-            throw new NotImplementedException();
-        }
+        public abstract void AfficherInformation();
 
         public void RetournerVin()
         {
